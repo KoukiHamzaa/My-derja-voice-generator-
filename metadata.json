@@ -1,0 +1,6 @@
+{
+  "name": "Tunisian Arabic Voiceover Generator",
+  "description": "A professional audio studio to generate realistic, high-quality, conversational voiceovers in the Tunisian Arabic dialect using Gemini TTS, featuring customizable tones and options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
